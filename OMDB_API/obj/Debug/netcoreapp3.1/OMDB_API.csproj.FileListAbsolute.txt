@@ -39,3 +39,4 @@ C:\Users\yashi\source\repos\OMDB_API\OMDB_API\obj\Debug\netcoreapp3.1\OMDB_API.d
 C:\Users\yashi\source\repos\OMDB_API\OMDB_API\obj\Debug\netcoreapp3.1\OMDB_API.pdb
 C:\Users\yashi\source\repos\OMDB_API\OMDB_API\obj\Debug\netcoreapp3.1\OMDB_API.genruntimeconfig.cache
 C:\Users\yashi\source\repos\OMDB_API\OMDB_API\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieNight.cshtml.g.cs
+C:\Users\yashi\source\repos\OMDB_API\OMDB_API\obj\Debug\netcoreapp3.1\Razor\Views\Home\GenreSearch.cshtml.g.cs

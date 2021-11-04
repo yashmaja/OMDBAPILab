@@ -60,7 +60,7 @@ namespace OMDB_API.Controllers
             return View(movies);
         }
 
-        public IActionResult GenreSearch()
+        /*public IActionResult GenreSearch()
         {
             return View();
         }
@@ -68,7 +68,7 @@ namespace OMDB_API.Controllers
         public IActionResult GenreSearch(string genre)
         {
 
-        }
+        }*/
 
         public IActionResult Privacy()
         {

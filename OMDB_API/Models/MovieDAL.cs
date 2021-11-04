@@ -26,5 +26,10 @@ namespace OMDB_API.Models
 
             return result;
         }
+
+        /*public List<MovieModel> GetMoviesByGenre(string genre)
+        {
+
+        }*/
     }
 }
